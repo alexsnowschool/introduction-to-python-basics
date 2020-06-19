@@ -8,4 +8,4 @@ Programing for AI Series ရဲ့  ပထမ လ အနေနဲ့ Python က�
 
 ![Introduction to Python Basics](http://drive.google.com/uc?export=view&id=1xh4f9mJ-f5v8oJ7hBiQCauzlWMB8GWIi)
 
-လူငယ်တိုင်း ဆွဲခေါ်လာနိုင်ဖို့ ပထမဆုံး ခြေးလှမ်းအနေနဲ့  [**Alex Snow School**](https://www.alexsnowschool.org/){:target="_blank"}  နဲ့  [**AVAIRDS**](https://www.facebook.com/avairds/){:target="_blank"} တို ပေါင်းစီပြီး Programing for AI  ဆိုတဲ့ Series တွေကို စတင်  မိတ်ဆက်ပေးမှာဖြစ်ပါတယ်။
+လူငယ်တိုင်း ဆွဲခေါ်လာနိုင်ဖို့ ပထမဆုံး ခြေးလှမ်းအနေနဲ့  [**Alex Snow School**](https://www.alexsnowschool.org/) နဲ့  [**AVAIRDS**](https://www.facebook.com/avairds/) တို ပေါင်းစီပြီး Programing for AI  ဆိုတဲ့ Series တွေကို အခုလို့ စတင်  မိတ်ဆက်ပေးလိုက်တာ ဖြစ်ပါတယ်။
