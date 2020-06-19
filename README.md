@@ -1,4 +1,4 @@
-# ***Programing for AI Series: Introduction to Python Basics**
+# ***Programing for AI Series: Introduction to Python Basics***
 
 Programing for AI   ဆိုရင်တော့ AI နဲ့ ပတ်သက်ပြီးဆို အဓိက မဖြစ်မနေ သိရမဲ့ Python programming language ကို မြန်မာ လူငယ်များအတွက် မြန်မာလို သေချာလေး hand-ons လေ့ကျင့်ခန်းတွေနဲ့ တကွ အတူတူ လုပ်ပြီး လေ့လာကြမယ့် အစီအစဥ်လေး တစ်ခုဖြစ်ပါတယ်။
 
